@@ -1,4 +1,3 @@
-
 <?php
 /**
  * Uninstall script for WhatsApp Widget Pro

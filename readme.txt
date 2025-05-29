@@ -1,4 +1,3 @@
-
 === WhatsApp Widget Pro ===
 Contributors: yourname
 Tags: whatsapp, chat, widget, contact, support, analytics
